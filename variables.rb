@@ -12,3 +12,8 @@ zipcode = 78260
 small = 2.3
 orginal = 4.6
 big = 6.9 
+
+# Booleans
+very_sleepy = true
+at_work = false
+in bed = false
